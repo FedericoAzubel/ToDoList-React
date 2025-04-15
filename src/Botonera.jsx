@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Buttons = () => {
+const Botonera = () => {
     return (
         <div class="btn_best_container">
             <button class="fastest_btn" id="fastBtn">Mostrar rápida</button>
@@ -9,4 +9,4 @@ const Buttons = () => {
     )
 }
 
-export default Buttons
+export default Botonera

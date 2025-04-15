@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Add = () => {
+const Agregar = () => {
     return (
         <div class="add_container">
             <input type="text" id="task-input" class="add_input" placeholder="Add your task" autocomplete="off" />
@@ -9,4 +9,4 @@ const Add = () => {
     )
 }
 
-export default Add
+export default Agregar

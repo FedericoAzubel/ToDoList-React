@@ -5,10 +5,6 @@
   font-family: "Noto sans", sans-serif;
 }
 
-#root {
-  width: 100%;
-}
-
 body {
   background-color: #78c2f2;
   min-height: 100vh;

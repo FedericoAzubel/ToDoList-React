@@ -1,10 +1,10 @@
 import React from 'react'
-import { Container } from "./Container"
+import TodoList from './TodoList'
 
 function App() {
   return(
     <>
-      <Container/>
+      <TodoList />
     </>
   )
 }
